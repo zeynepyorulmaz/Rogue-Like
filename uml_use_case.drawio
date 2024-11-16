@@ -124,7 +124,7 @@
             <mxPoint x="500" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NydO8VDSdEUmjiB7iGCL-2" value="«actor»&lt;br&gt;&lt;b&gt;Game Enginer&lt;/b&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="NydO8VDSdEUmjiB7iGCL-2" value="«actor»&lt;br&gt;&lt;b&gt;Game Engine&lt;/b&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-90" y="330" width="170" height="80" as="geometry" />
         </mxCell>
       </root>
