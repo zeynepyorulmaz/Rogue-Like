@@ -48,8 +48,6 @@ Prepare and submit the agenda prior to the meeting with TAs. Ensure it covers:
 - [ ] Complete and review all functional requirements.
    - [X] Use Case Diagram
    - [X] Use Case Scenario
-- [ ] Develop and verify the UML Use Case Diagram.
-- [ ] Write and refine use case narratives for at least 7 use cases.
 - [X] Create a domain model with at least 7 domain classes. (needs rewiev)
 - [ ] Develop at least 7 System Sequence Diagrams (SSDs). (in progress)
   - [X] Start New Game
