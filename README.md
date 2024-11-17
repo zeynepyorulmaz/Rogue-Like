@@ -6,26 +6,23 @@
 ### 1. Project Deliverables Preparation
 Based on the Phase-I project description, your group needs to prepare the following:
 
-1. **Functional Requirements** (40 pts)
-   - Develop a comprehensive list of functional requirements based on the Phase-I project description.
-
-2. **UML Use Case Diagram** (10 pts)
+1. **UML Use Case Diagram** (10 pts)
    - Identify and include all relevant actors and use cases in the diagram.
 
-3. **Use Case Narratives** (30 pts)
+2. **Use Case Narratives** (30 pts)
    - Select and document the important use cases, focusing on scenarios that require significant thought and depth. 
    - Total expected length: 1-2 pages (11pt font, single-spaced, with reasonable margins and indentation).
 
-4. **Domain Model** (15 pts)
+3. **Domain Model** (15 pts)
    - Create a domain model that includes at least 7 domain classes.
 
-5. **System Sequence Diagrams (SSDs)** (20 pts)
+4. **System Sequence Diagrams (SSDs)** (20 pts)
    - Develop SSDs for the main success scenarios and frequently used or complicated alternative scenarios of the selected use cases (at least 7 diagrams).
 
-6. **Operation Contracts** (15 pts)
+5. **Operation Contracts** (15 pts)
    - Prepare operation contracts for selected operations.
 
-7. **Other Artifacts** (10 pts)
+6. **Other Artifacts** (10 pts)
    - Work on additional inception-phase documents:
      - Vision Statement
      - Supplementary Specification (non-functional requirements)
