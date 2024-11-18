@@ -54,7 +54,7 @@ Prepare and submit the agenda prior to the meeting with TAs. Ensure it covers:
 - [X] Draft at least 7 operation contracts. (in drive folder)
 - [ ] Prepare supplementary documents: Vision, Supplementary Specification, and Glossary.
 - [ ] Submit meeting agenda before the TA meeting.
-- [X] Operation contracts (needs review, taken directly from chat)
+- [X] Operation contracts (needs review)
 
 ---
 
