@@ -51,7 +51,7 @@ Prepare and submit the agenda prior to the meeting with TAs. Ensure it covers:
 - [X] Create a domain model with at least 7 domain classes. (needs rewiev)
 - [ ] Develop at least 7 System Sequence Diagrams (SSDs). (in progress)
   - [X] Start New Game
-- [ ] Draft at least 7 operation contracts.
+- [X] Draft at least 7 operation contracts. (in drive folder)
 - [ ] Prepare supplementary documents: Vision, Supplementary Specification, and Glossary.
 - [ ] Submit meeting agenda before the TA meeting.
 - [X] Operation contracts (needs review, taken directly from chat)
