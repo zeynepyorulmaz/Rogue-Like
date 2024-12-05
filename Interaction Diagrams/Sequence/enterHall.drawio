@@ -1,40 +1,40 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.1">
   <diagram name="Sayfa -1" id="v08Ev-UVrjxoGycN5_Oy">
-    <mxGraphModel dx="1084" dy="1693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1084" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="JVXAD5Exc_dnLByAMINy-1" value=":Player" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JVXAD5Exc_dnLByAMINy-1" value=":Player" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JVXAD5Exc_dnLByAMINy-2" value=":Hall" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JVXAD5Exc_dnLByAMINy-2" value=":Hall" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="380" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JVXAD5Exc_dnLByAMINy-3" value=":Lighting" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JVXAD5Exc_dnLByAMINy-3" value=":Lighting" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="580" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JVXAD5Exc_dnLByAMINy-4" value="loop" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+        <mxCell id="JVXAD5Exc_dnLByAMINy-4" value="loop" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" parent="1" vertex="1">
           <mxGeometry x="100" y="350" width="680" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="JVXAD5Exc_dnLByAMINy-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="JVXAD5Exc_dnLByAMINy-5" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="220" y="230" as="sourcePoint" />
             <mxPoint x="440" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JVXAD5Exc_dnLByAMINy-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="JVXAD5Exc_dnLByAMINy-6" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="220" y="270" as="sourcePoint" />
             <mxPoint x="640" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JVXAD5Exc_dnLByAMINy-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="JVXAD5Exc_dnLByAMINy-7" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="225.5" y="309" as="sourcePoint" />
             <mxPoint x="645.5" y="309" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JVXAD5Exc_dnLByAMINy-8" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="JVXAD5Exc_dnLByAMINy-8" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="220" y="480" as="sourcePoint" />
             <mxPoint x="219.5" y="190" as="targetPoint" />
@@ -43,91 +43,82 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JVXAD5Exc_dnLByAMINy-9" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="70" y="120" as="sourcePoint" />
-            <mxPoint x="70" y="-30" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="70" y="30" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="JVXAD5Exc_dnLByAMINy-10" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="JVXAD5Exc_dnLByAMINy-29">
+        <mxCell id="JVXAD5Exc_dnLByAMINy-10" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="JVXAD5Exc_dnLByAMINy-29" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="640" y="500" as="sourcePoint" />
             <mxPoint x="639.5" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JVXAD5Exc_dnLByAMINy-11" value="openDoor()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="JVXAD5Exc_dnLByAMINy-11" value="openDoor()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="290" y="200" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JVXAD5Exc_dnLByAMINy-12" value="turnOnLights()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="JVXAD5Exc_dnLByAMINy-12" value="turnOnLights()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="310" y="240" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JVXAD5Exc_dnLByAMINy-14" value="adjustBrightness&lt;span style=&quot;background-color: initial;&quot;&gt;(100)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="JVXAD5Exc_dnLByAMINy-14" value="adjustBrightness&lt;span style=&quot;background-color: initial;&quot;&gt;(100)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="290" y="280" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JVXAD5Exc_dnLByAMINy-15" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+        <mxCell id="JVXAD5Exc_dnLByAMINy-15" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="215.5" y="220" width="10" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="JVXAD5Exc_dnLByAMINy-17" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="JVXAD5Exc_dnLByAMINy-27">
+        <mxCell id="JVXAD5Exc_dnLByAMINy-17" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="JVXAD5Exc_dnLByAMINy-27" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="440" y="500" as="sourcePoint" />
             <mxPoint x="439.5" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JVXAD5Exc_dnLByAMINy-19" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="JVXAD5Exc_dnLByAMINy-19" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="220" y="390" as="sourcePoint" />
             <mxPoint x="440" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JVXAD5Exc_dnLByAMINy-20" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="JVXAD5Exc_dnLByAMINy-20" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="220" y="430" as="sourcePoint" />
             <mxPoint x="440" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JVXAD5Exc_dnLByAMINy-21" value="&lt;span style=&quot;background-color: initial;&quot;&gt;collectEnchantment()&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="JVXAD5Exc_dnLByAMINy-21" value="&lt;span style=&quot;background-color: initial;&quot;&gt;collectEnchantment()&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="270" y="360" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JVXAD5Exc_dnLByAMINy-22" value="&lt;span style=&quot;background-color: initial;&quot;&gt;moveInside()&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="JVXAD5Exc_dnLByAMINy-22" value="&lt;span style=&quot;background-color: initial;&quot;&gt;moveInside()&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="285" y="400" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JVXAD5Exc_dnLByAMINy-23" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="JVXAD5Exc_dnLByAMINy-23" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="225.5" y="340" as="sourcePoint" />
             <mxPoint x="445.5" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JVXAD5Exc_dnLByAMINy-24" value="closeDoor()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="JVXAD5Exc_dnLByAMINy-24" value="closeDoor()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="295" y="310" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JVXAD5Exc_dnLByAMINy-25" value="&lt;span style=&quot;background-color: initial;&quot;&gt;exitHall()&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="JVXAD5Exc_dnLByAMINy-25" value="&lt;span style=&quot;background-color: initial;&quot;&gt;exitHall()&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="295" y="450" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JVXAD5Exc_dnLByAMINy-26" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="JVXAD5Exc_dnLByAMINy-26" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="225.5" y="480" as="sourcePoint" />
             <mxPoint x="445.5" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JVXAD5Exc_dnLByAMINy-28" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="JVXAD5Exc_dnLByAMINy-27">
+        <mxCell id="JVXAD5Exc_dnLByAMINy-28" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="JVXAD5Exc_dnLByAMINy-27" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="440" y="500" as="sourcePoint" />
             <mxPoint x="439.5" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JVXAD5Exc_dnLByAMINy-27" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+        <mxCell id="JVXAD5Exc_dnLByAMINy-27" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="435" y="350" width="10" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="JVXAD5Exc_dnLByAMINy-30" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="JVXAD5Exc_dnLByAMINy-29">
+        <mxCell id="JVXAD5Exc_dnLByAMINy-30" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="JVXAD5Exc_dnLByAMINy-29" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="640" y="500" as="sourcePoint" />
             <mxPoint x="639.5" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JVXAD5Exc_dnLByAMINy-29" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+        <mxCell id="JVXAD5Exc_dnLByAMINy-29" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="635" y="260" width="10" height="190" as="geometry" />
         </mxCell>
       </root>
