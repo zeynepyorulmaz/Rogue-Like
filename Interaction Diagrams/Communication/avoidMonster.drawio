@@ -1,6 +1,6 @@
-<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/25.0.2 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="25.0.2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.1">
   <diagram name="Sayfa -1" id="GVQYx2sRCvoD61wXHu_J">
-    <mxGraphModel dx="1941" dy="1975" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1761" dy="1616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -73,10 +73,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AqNQG8bEep74ebUHCkk8-19" value="3: spawnArcher()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="-179" y="-830" width="150" height="30" as="geometry" />
+          <mxGeometry x="-160" y="-830" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AqNQG8bEep74ebUHCkk8-20" value="5: spawnWizard()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="-178.5" y="-583" width="150" height="30" as="geometry" />
+          <mxGeometry x="-160" y="-584" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AqNQG8bEep74ebUHCkk8-21" value="7: spawnFighter()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="-337" y="-614" width="150" height="30" as="geometry" />
@@ -84,14 +84,14 @@
         <mxCell id="AqNQG8bEep74ebUHCkk8-22" value="4: attackDistance()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="-612" y="-869" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AqNQG8bEep74ebUHCkk8-24" value="6: closeCombat()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="-601" y="-469" width="150" height="30" as="geometry" />
+        <mxCell id="AqNQG8bEep74ebUHCkk8-24" value="6:&amp;nbsp;teleportRune()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="-597" y="-480" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AqNQG8bEep74ebUHCkk8-25" value="8: teleportRune()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="-602" y="-614" width="140" height="30" as="geometry" />
+        <mxCell id="AqNQG8bEep74ebUHCkk8-25" value="8: closeCombat()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="-607" y="-614" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AqNQG8bEep74ebUHCkk8-27" value="1.2: useProtection()&lt;div&gt;8.2: reportLocation()&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-800" y="-740" width="130" height="40" as="geometry" />
+          <mxGeometry x="-810" y="-740" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
