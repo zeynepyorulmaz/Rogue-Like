@@ -1,0 +1,56 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.3">
+  <diagram name="Page-1" id="FI2Y_2_EOv9rips4BZRn">
+    <mxGraphModel dx="738" dy="599" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LcSldpAkXtB4kn1oc7S1-2" value="Player&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" parent="1" vertex="1">
+          <mxGeometry x="170" y="120" width="20" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="LcSldpAkXtB4kn1oc7S1-3" value=":HallPanel" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="330" y="120" width="100" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="LcSldpAkXtB4kn1oc7S1-9" value="&lt;div style=&quot;background-color: rgb(30, 31, 34); color: rgb(188, 190, 196);&quot;&gt;&lt;pre style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot; face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;color: rgb(86, 168, 245);&quot;&gt;assignRunesToObjects&lt;/span&gt;(TileManagerForHall currentHall)&lt;/font&gt;&lt;/pre&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1">
+          <mxGeometry x="0.0051" width="80" relative="1" as="geometry">
+            <mxPoint x="182.42" y="203" as="sourcePoint" />
+            <mxPoint x="377.42" y="203" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LcSldpAkXtB4kn1oc7S1-10" value="loop&lt;div&gt;[hasRune()]&amp;nbsp;&lt;/div&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=70;height=40;" parent="1" vertex="1">
+          <mxGeometry x="100" y="280" width="350" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="LcSldpAkXtB4kn1oc7S1-14" value="&lt;span style=&quot;text-align: left;&quot;&gt;move()&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" source="LcSldpAkXtB4kn1oc7S1-2" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="185" y="320" as="sourcePoint" />
+            <mxPoint x="375" y="319.9999999999999" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LcSldpAkXtB4kn1oc7S1-27" value="&lt;div style=&quot;background-color: rgb(30, 31, 34); color: rgb(188, 190, 196);&quot;&gt;&lt;pre style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 8px;&quot;&gt;&lt;span style=&quot;color: rgb(86, 168, 245);&quot;&gt;interact&lt;/span&gt;(HallPanel panel)&lt;/font&gt;&lt;/pre&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1">
+          <mxGeometry x="0.0526" width="80" relative="1" as="geometry">
+            <mxPoint x="183" y="376" as="sourcePoint" />
+            <mxPoint x="373" y="375.9999999999999" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LcSldpAkXtB4kn1oc7S1-34" value="drawReveal()&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; background-color: rgb(251, 251, 251);&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22render()%22%20style%3D%22html%3D1%3BverticalAlign%3Dbottom%3BendArrow%3Dopen%3Bdashed%3D1%3BendSize%3D8%3Bcurved%3D0%3Brounded%3D0%3B%22%20edge%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%220.0002%22%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%22372.5%22%20y%3D%22350%22%20as%3D%22sourcePoint%22%2F%3E%3CmxPoint%20x%3D%22177.5%22%20y%3D%22350%22%20as%3D%22targetPoint%22%2F%3E%3CmxPoint%20as%3D%22offset%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" edge="1">
+          <mxGeometry x="0.0006" relative="1" as="geometry">
+            <mxPoint x="380.11" y="440" as="sourcePoint" />
+            <mxPoint x="185.11" y="440" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RYs2Ot6IiAszc7xWGyI7-3" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="181" y="251" as="sourcePoint" />
+            <mxPoint x="381" y="251" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RYs2Ot6IiAszc7xWGyI7-5" value="&lt;div style=&quot;background-color: rgb(30, 31, 34); color: rgb(188, 190, 196);&quot;&gt;&lt;p style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 8px;&quot;&gt;&lt;span style=&quot;color: rgb(86, 168, 245);&quot;&gt;initNewHall&lt;/span&gt;(Hall nextHall, Player player, HallPanel hallPanel)&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="172" y="212" width="516" height="64" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
